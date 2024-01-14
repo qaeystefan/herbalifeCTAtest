@@ -1,0 +1,16 @@
+{
+  "name": "herbatest",
+  "version": "1.0.0",
+  "description": "adobedatalayer testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2",
+    "lodash": "^4.17.21"
+  }
+}
